@@ -1,5 +1,9 @@
 Firebase Project ID: advandb-mco3-d4466
 
+main: all regions
+asia_africa: obviously asia and africa
+europe_america: obviously eu and america
+
 How to add Firebase to Web App:
 
 <script src="https://www.gstatic.com/firebasejs/4.8.0/firebase.js"></script>

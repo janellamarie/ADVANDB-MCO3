@@ -1,1 +1,17 @@
-henlo
+Firebase Project ID: advandb-mco3-d4466
+
+How to add Firebase to Web App:
+
+<script src="https://www.gstatic.com/firebasejs/4.8.0/firebase.js"></script>
+<script>
+  // Initialize Firebase
+  var config = {
+    apiKey: "AIzaSyCbya5cGakAzJb6DZAgsIsFrHet107oYoY",
+    authDomain: "advandb-mco3-d4466.firebaseapp.com",
+    databaseURL: "https://advandb-mco3-d4466.firebaseio.com",
+    projectId: "advandb-mco3-d4466",
+    storageBucket: "",
+    messagingSenderId: "161573402183"
+  };
+  firebase.initializeApp(config);
+</script>
